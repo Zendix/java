@@ -25,7 +25,7 @@ if(x=="1"){xxx="/2019/01/download-file.html"}
 if(x=="2"){xxx="/2019/01/download-faster-how-to-speed-up-your.html"}
 if(x=="3"){xxx="/2019/01/how-to-make-sure-file-is-safe-before.html"}
 if(x=="4"){xxx="/2019/01/how-to-check-if-web-site-is-safe.html"}
-if(x=="5"){xxx="/2019/01/reasons-why-url-shorteners-are-useful.html"}a_to_ve[i].href="https://secure-downloads.blogspot.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2019/01/reasons-why-url-shorteners-are-useful.html"}a_to_ve[i].href="https://secure-downloads.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
